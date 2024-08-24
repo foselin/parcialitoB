@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|c:\\users\\ffose\\source\\repos\\miparcialitob\\models\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|solutionrelative:models\\cursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|c:\\users\\ffose\\source\\repos\\miparcialitob\\models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|solutionrelative:models\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|c:\\users\\ffose\\source\\repos\\miparcialitob\\models\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|solutionrelative:models\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|c:\\users\\ffose\\source\\repos\\miparcialitob\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|solutionrelative:models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|c:\\users\\ffose\\source\\repos\\miparcialitob\\migrations\\20240824171746_createefcoredb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|solutionrelative:migrations\\20240824171746_createefcoredb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|c:\\users\\ffose\\source\\repos\\miparcialitob\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B498E-84E1-4392-B1A0-6AE09E2A7A4F}|MiparcialitoB.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 198,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240824171746_CreateEFCoreDB1.cs",
+              "DocumentMoniker": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Migrations\\20240824171746_CreateEFCoreDB1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240824171746_CreateEFCoreDB1.cs",
+              "ToolTip": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Migrations\\20240824171746_CreateEFCoreDB1.cs",
+              "RelativeToolTip": "Migrations\\20240824171746_CreateEFCoreDB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:17:46.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "Models\\EFCoreDbContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:55:16.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:53:00.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "Models\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\Estudiantes.cs",
+              "RelativeToolTip": "Models\\Estudiantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:40:40.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cursos.cs",
+              "DocumentMoniker": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\Cursos.cs",
+              "RelativeDocumentMoniker": "Models\\Cursos.cs",
+              "ToolTip": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\Cursos.cs",
+              "RelativeToolTip": "Models\\Cursos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:40:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inscripciones.cs",
+              "DocumentMoniker": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\Inscripciones.cs",
+              "RelativeDocumentMoniker": "Models\\Inscripciones.cs",
+              "ToolTip": "C:\\Users\\ffose\\source\\repos\\MiparcialitoB\\Models\\Inscripciones.cs",
+              "RelativeToolTip": "Models\\Inscripciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:39:55.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
